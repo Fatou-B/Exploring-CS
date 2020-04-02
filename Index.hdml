@@ -1,8 +1,22 @@
 <!DOCTYPE html>
 <html>
  <body>
-    	<h1><b>Dance Is Amazing!</b></h1>
-   	<p><u>I like dancing alot.</u> It's an art form and a sport.</p>
-    <p><a href="url">https://www.discountdance.com/</a></p>
+    	<h1>Dance Is Amazing!</h1>
+   	<p>I like dancing alot.It's an art form and a sport.</p>
+   <b>HipHop,Contemporary,Ballet</b>
+   <p><a href=https://www.discountdance.com>Dance World</a></p>
+   <p><img src=https://cdn.britannica.com/s:1500x700,q:85/53/9953-004-02360894/Catherine-Wheel-Twyla-Tharp-1981.jpg alt="text" style="width:300px;height:300px;"></p>
+   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/mBowksYVtRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+   <font color= pink>DANCE~DANCE</font>
+  <body bgcolor= #f0ceed> 
+  <button>Click this to become the best DANCER</button>
+  <h2>#STOBEMOTIVATED</h2> 
+ <ul>
+  <li>LIVELOVEDANCE</li>
+  <li>#DANCE4L</li>
+  <li>#BESTDANCER</li>
+  <li>YAY</li>
+  <li>YOLO</li>
+</ul>
  </body>
 </html>
